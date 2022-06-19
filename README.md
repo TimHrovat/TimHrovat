@@ -7,7 +7,7 @@ In the next few years, I plan to expand my knowledge in the software development
 I am always open to collaboration, so you can always reach out to me.
 
 🔗 Links: 
-  - website: timhrovat.com
+  - website: www.timhrovat.com
   - email: tim.hrovat16@gmail.com
   - linkedin: https://www.linkedin.com/in/tim-hrovat-4255b61a6/
 
