@@ -1,6 +1,4 @@
-Hi, I'm Tim Hrovat, an 18-year-old computer science student from Ljubljana, Slovenia.
-
-Aged 14, I wrote my first lines of code, and since then, I have been intrigued by it. Besides programming, I'm passionate about learning how things operate behind the scenes and tinkering with microcontrollers.
+Hi, I'm Tim Hrovat, a computer science student and software developer @ eŠola d.o.o. from Ljubljana, Slovenia.
 
 In the next few years, I plan to expand my knowledge in the software development field and continue my path to becoming a software engineer.
 
